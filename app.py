@@ -3,3 +3,6 @@ def add(a,b):
 
 def add(c,d):
     return c-d
+
+def div(e,f):
+    return e/f
